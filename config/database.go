@@ -3,6 +3,7 @@ package config
 import (
 	"fmt"
 	"log"
+	"os"
 	"time"
 
 	"gorm.io/driver/postgres"
@@ -13,20 +14,54 @@ var DB *gorm.DB
 
 func ConnectPostgres() {
 
-	sslMode := "disable"
-	if Cfg.DBSSL {
-		sslMode = "require"
+	// ======================
+	// DETECT RAILWAY ENV
+	// ======================
+
+	host := os.Getenv("PGHOST")
+	port := os.Getenv("PGPORT")
+	user := os.Getenv("PGUSER")
+	password := os.Getenv("PGPASSWORD")
+	dbname := os.Getenv("PGDATABASE")
+
+	sslMode := "require"
+
+	// ======================
+	// FALLBACK TO LOCAL ENV
+	// ======================
+
+	if host == "" {
+
+		host = Cfg.DBHost
+		port = Cfg.DBPort
+		user = Cfg.DBUser
+		password = Cfg.DBPass
+		dbname = Cfg.DBName
+
+		if Cfg.DBSSL {
+			sslMode = "require"
+		} else {
+			sslMode = "disable"
+		}
 	}
+
+	// ======================
+	// BUILD DSN
+	// ======================
 
 	dsn := fmt.Sprintf(
 		"host=%s user=%s password=%s dbname=%s port=%s sslmode=%s TimeZone=Asia/Jakarta",
-		Cfg.DBHost,
-		Cfg.DBUser,
-		Cfg.DBPass,
-		Cfg.DBName,
-		Cfg.DBPort,
+		host,
+		user,
+		password,
+		dbname,
+		port,
 		sslMode,
 	)
+
+	// ======================
+	// CONNECT DATABASE
+	// ======================
 
 	db, err := gorm.Open(postgres.Open(dsn), &gorm.Config{})
 	if err != nil {
@@ -41,6 +76,10 @@ func ConnectPostgres() {
 	if err := sqlDB.Ping(); err != nil {
 		log.Fatalf("database unreachable: %v", err)
 	}
+
+	// ======================
+	// CONNECTION POOL
+	// ======================
 
 	sqlDB.SetMaxIdleConns(10)
 	sqlDB.SetMaxOpenConns(100)
