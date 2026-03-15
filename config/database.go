@@ -14,50 +14,70 @@ var DB *gorm.DB
 
 func ConnectPostgres() {
 
-	// ======================
-	// DETECT RAILWAY ENV
-	// ======================
-
-	host := os.Getenv("PGHOST")
-	port := os.Getenv("PGPORT")
-	user := os.Getenv("PGUSER")
-	password := os.Getenv("PGPASSWORD")
-	dbname := os.Getenv("PGDATABASE")
-
-	sslMode := "require"
+	var dsn string
 
 	// ======================
-	// FALLBACK TO LOCAL ENV
+	// 1. PRIORITY: DATABASE_URL (Railway standard)
 	// ======================
 
-	if host == "" {
+	databaseURL := os.Getenv("DATABASE_URL")
 
-		host = Cfg.DBHost
-		port = Cfg.DBPort
-		user = Cfg.DBUser
-		password = Cfg.DBPass
-		dbname = Cfg.DBName
+	if databaseURL != "" {
 
-		if Cfg.DBSSL {
-			sslMode = "require"
+		dsn = databaseURL
+
+		log.Println("Using DATABASE_URL connection")
+
+	} else {
+
+		// ======================
+		// 2. SECOND: PG VARIABLES
+		// ======================
+
+		host := os.Getenv("PGHOST")
+		port := os.Getenv("PGPORT")
+		user := os.Getenv("PGUSER")
+		password := os.Getenv("PGPASSWORD")
+		dbname := os.Getenv("PGDATABASE")
+
+		sslMode := "require"
+
+		// ======================
+		// 3. FALLBACK: LOCAL CONFIG
+		// ======================
+
+		if host == "" {
+
+			host = Cfg.DBHost
+			port = Cfg.DBPort
+			user = Cfg.DBUser
+			password = Cfg.DBPass
+			dbname = Cfg.DBName
+
+			if Cfg.DBSSL {
+				sslMode = "require"
+			} else {
+				sslMode = "disable"
+			}
+
+			log.Println("Using LOCAL database config")
+
 		} else {
-			sslMode = "disable"
+
+			log.Println("Using PG environment variables")
+
 		}
+
+		dsn = fmt.Sprintf(
+			"host=%s user=%s password=%s dbname=%s port=%s sslmode=%s TimeZone=Asia/Jakarta",
+			host,
+			user,
+			password,
+			dbname,
+			port,
+			sslMode,
+		)
 	}
-
-	// ======================
-	// BUILD DSN
-	// ======================
-
-	dsn := fmt.Sprintf(
-		"host=%s user=%s password=%s dbname=%s port=%s sslmode=%s TimeZone=Asia/Jakarta",
-		host,
-		user,
-		password,
-		dbname,
-		port,
-		sslMode,
-	)
 
 	// ======================
 	// CONNECT DATABASE

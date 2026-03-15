@@ -13,6 +13,7 @@ type Config struct {
 	JWT string
 	GROQAPIKEY string
 
+	DBURL string
 	DBHost string
 	DBPort string
 	DBUser string
@@ -47,6 +48,7 @@ func LoadConfig(envFilePath ...string) {
 		JWT:     os.Getenv("JWT"),
 		GROQAPIKEY: os.Getenv("GROQ_API_KEY"),
 
+		DBURL: os.Getenv("DATABASE_URL"),
 		DBHost: os.Getenv("DB_HOST"),
 		DBPort: os.Getenv("DB_PORT"),
 		DBUser: os.Getenv("DB_USER"),
