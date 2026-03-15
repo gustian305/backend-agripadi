@@ -1,0 +1,516 @@
+nama_pestisida,bahan_aktif,bentuk_formulasi,jenis_pestisida,sasaran_komoditas,hama_sasaran,dosis_nilai,dosis_satuan
+FICAZ 25 SP,Nitenpiram: 25%,"Insektisida sistemik dengan aksi kontak dan lambung, berbentuk tepung yang larut dalam air, berwarna putih kekuningan, bekerja dengan memblokir reseptor nikotinik asetilkolin pada sistem saraf serangga sehingga menyebabkan hama berhenti makan, kelumpuhan, dan kematian cepat.",Insektisida,Padi,wereng batang coklat,"1,0",g/l
+GENIUS 20/125 OD,Nitenpiram: 125g/l,"Insektisida racun kontak, lambung, dan sistemik berbentuk pekatan minyak (Oil Dispersion / OD) yang dapat diemulsikan dalam air",Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+INTERTEN 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,"Insektisida sistemik dengan aksi kontak, lambung, dan penghambatan makan (feeding blocker), berbentuk butiran yang dapat didispersikan dalam air (Water-Dispersible Granule / WG)",Insektisida,Padi,wereng batang coklat,"1,0",g/l
+PYRATAN 125 SL,Nitenpiram: 125g/l,"Insektisida racun kontak dan lambung dengan sifat sistemik translaminar, berbentuk larutan pekat yang larut sempurna dalam air (Soluble Liquid / SL)",Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+ANDARAM 200 EC,"Nitenpiram: 200,00g/l","Insektisida sistemik dengan aksi utama kontak dan lambung, ditambah kemampuan translaminar (penetrasi ke sisi bawah daun), berbentuk pekatan emulsi kuning kecokelatan yang diemulsikan dalam air membentuk emulsi stabil untuk penyemprotan merata.",Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+QAISHAR 10 WP,Nitenpiram: 10%,"Insektisida sistemik dengan aksi utama kontak dan lambung, ditambah penetrasi translaminar (menembus daun ke sisi bawah), berbentuk tepung wettable powder (WP) yang mudah disuspensikan dalam air membentuk suspensi homogen untuk penyemprotan merata.",Insektisida,Padi,wereng batang coklat,"1,5",g/l
+CYTROZIN 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,"Insektisida sistemik dengan aksi kontak, lambung, penghambatan makan (feeding blocker), dan penetrasi translaminar, berbentuk butiran yang dapat didispersikan dalam air (Water-Dispersible Granule / WG)",Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ARTOS 100 SL,Nitenpiram: 100g/l,"Insektisida sistemik dengan aksi utama kontak dan lambung, ditambah penetrasi translaminar (menembus daun ke sisi bawah), berbentuk larutan pekat bening hingga kekuningan yang larut sempurna dalam air tanpa residu, mudah dicampur untuk penyemprotan volume tinggi atau rendah.",Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+NIZIN 60/10 WG,Buprofezin: 60% + Nitenpiram: 10%,"Insektisida kombinasi dua bahan aktif dengan mekanisme berbeda, berbentuk butiran dispersible dalam air (WG), warna putih hingga kekuningan/abu-abu, mudah didispersikan saat diaduk dalam air membentuk suspensi stabil untuk penyemprotan merata.",Insektisida,Padi,wereng batang coklat,"1,0",g/l
+Z-OFF 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+WERENGIN 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+KAYAN 128 SL,Nitenpiram: 128g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+HANTER 20/60 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+TORAM 25 SP,Nitenpiram: 25%,racun kontak dan lambung berbentuk tepung yang dapat larut dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+TEBALLO 250 SL,Nitenpiram: 250g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",ml/l
+REMIFA 25 SP,Nitenpiram: 25%,racun kontak dan lambung berbentuk tepung yang dapat larut dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+UNINAP 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+GAVIN 35 WP,Nitenpiram: 10.00% + Tiametoksam: 25.00%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+SYRAM 150 SL,Nitenpiram: 150g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+SINGAMAN 110 SL,Nitenpiram: 110g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+GOLDEN 200 SL,Nitenpiram: 200g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+SNATCH 50/10 WG,Pimetrozin: 50% + Nitenpiram: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+K-KINGFIELD 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ANIXAM 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,4",g/l
+NIGO 60 WP,Nitenpiram: 60%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+NITEZIM 50/10 WG,Pimetrozin: 50% + Nitenpiram: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+BESTKING 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+DEFENDER 10/50 WG,Nitenpiram: 10% + Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+TRAVERSA 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ARES 100 SL,Nitenpiram: 100g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+KLENGER 150 SL,Nitenpiram: 150g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+ROZEL 40/20 WG,Pimetrozin: 40% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+NITEN 100 SL,Nitenpiram: 100 g/l,Insektisida racun saraf berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+BOLSANO 60/10 WP,Buprofezin: 60% + Nitenpiram: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+CYPIRAN 12.5 WP,Nitenpiram: 12.5%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+BURENG 20 WG,Nitenpiram: 20.00%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,25",g/l
+PIRAS 120 SL,Nitenpiram: 120g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",ml/l
+NITERMA 130 SL,Nitenpiram: 130g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+STARNITE 100 SL,Nitenpiram: 100g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,1.5,ml/l
+HADES 123 SL,Nitenpiram : 123g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+Salpymiten 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+BURNEGG 100/25 SC,Nitenpiram: 100g/l + Fipronil: 25g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+BESTZINE 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+UNINAP 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+UNINAP 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+CAMORA 100 SL,Nitenpiram: 100g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+DKAUREVA 35 WP,Nitenpiram: 5% + Buprofezin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+DKAUREVA 35 WP,Nitenpiram: 5% + Buprofezin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PIRAM 150 SL,Nitenpiram: 150g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+KETAVE 100 SL,Nitenpiram: 100g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"375,0",ml/l
+UNIGAS 25 SP,Nitenpiram: 25%,racun kontak dan lambung berbentuk tepung yang dapat larut dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+LASER 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"2,0",g/l
+LASER 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+PRONITE 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+PRONITE 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+SIANTRAM 400/100 SL,Dimehipo: 400g/l + Nitenpiram: 100g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",ml/l
+SIANTRAM 400/100 SL,Dimehipo: 400g/l + Nitenpiram: 100g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",ml/l
+ASSASSIN 100 SL,Nitenpiram: 100g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+YUSHA 100 SL,Nitenpiram: 100g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+SAGRI-PANCA 30/10 WP,Nitenpiram: 10% + Pimetrozin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+SAGRI-PANCA 30/10 WP,Nitenpiram: 10% + Pimetrozin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+NENGGALA 60/20 WG,Pimetrozin: 60% + Nitenpiram : 20%,Insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"875,0",g/l
+NENGGALA 60/20 WG,Pimetrozin: 60% + Nitenpiram : 20%,Insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"875,0",g/l
+APPLAUD 100 EC,Buprofezin: 100g/l,yang bersifat menghambat pertumbuhan khitin berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+NIZIN 60/10 WG,Buprofezin: 60% + Nitenpiram: 10%,Insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+NIZIN 60/10 WG,Buprofezin: 60% + Nitenpiram: 10%,Insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+BUPROSIDA 100 EC,Buprofezin : 100g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Wereng Punggung Putih,"1,0",ml/l
+BUPROSIDA 100 EC,Buprofezin : 100g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+STARIUM 110/220 SC,Buprofezin: 220g/l + Spirotetramat: 110g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+STARIUM 110/220 SC,Buprofezin: 220g/l + Spirotetramat: 110g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+SHOGUN 440 SC,Buprofezin: 440g/l,penghambat perkembangan khitin berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Wereng Hijau,"1,0",ml/l
+SHOGUN 440 SC,Buprofezin: 440g/l,penghambat perkembangan khitin berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+K-METCARB 20/5 WP,Buprofezin: 5% + Metolkarb: 20%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+K-METCARB 20/5 WP,Buprofezin: 5% + Metolkarb: 20%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+DETONATOR 20 WP,Buprofezin: 10% + Etofenproks: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BOLSANO 60/10 WP,Buprofezin: 60% + Nitenpiram: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+BOLSANO 60/10 WP,Buprofezin: 60% + Nitenpiram: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+LUGEN 100 EC,Buprofezin: 100g/l,Insektisida racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,25",l/ha
+LUGEN 100 EC,Buprofezin: 100g/l,Insektisida racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Wereng Punggung Putih,"0,25",l/ha
+TIMBER 50/15 WP,Monosultap: 50% + Buprofezin: 15%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,75",g/l
+TIMBER 50/15 WP,Monosultap: 50% + Buprofezin: 15%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Penggerek Batang,"0,75",g/l
+DKAUREVA 35 WP,Nitenpiram: 5% + Buprofezin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"300,0",g/ha
+DKAUREVA 35 WP,Nitenpiram: 5% + Buprofezin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"300,0",g/ha
+TRIZIN 10/25 WP,Imidakloprid: 25% + Buprofezin: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+TRIZIN 10/25 WP,Imidakloprid: 25% + Buprofezin: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+MADRID 50/10 WP,Buprofezin: 10% + Dimehipo: 50%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+MADRID 50/10 WP,Buprofezin: 10% + Dimehipo: 50%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BUPRO-NA 25 WP,Buprofezin: 25%,penghambat perkembangan khitin berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+HOKORI 440 SC,Buprofezin: 440g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+BRODIN 18/12 WP,Dinotefuran: 12% + Buprofezin: 18%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+BRODIN 18/12 WP,Dinotefuran: 12% + Buprofezin: 18%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+ZOHAR 240/40 SC,Fipronil : 40g/l + Buprofezin : 240g/l,racun kontak dan lambung berbentuk pekatan yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+ZOHAR 240/40 SC,Fipronil : 40g/l + Buprofezin : 240g/l,racun kontak dan lambung berbentuk pekatan yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+WINGREAT 400 EC,Imidakloprid: 100g/l + BPMC: 300g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+WINGREAT 400 EC,Imidakloprid: 100g/l + BPMC: 300g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+ZIBAZ 400 EC,BPMC: 400g/l,racun kontak berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+EMCINDO 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Belalang,"2,0",ml/l
+EMCINDO 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PROMOBAS 500 EC,BPMC: 500g/l,Insektisida racun kontak berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+TANICARB 485 EC,BPMC: 485g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+AMABAS 500 EC,BPMC: 500g/l,Insektisida racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"4,0",ml/l
+AMABAS 500 EC,BPMC: 500g/l,Insektisida racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Belalang,"4,0",ml/l
+SIDABAS 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Wereng Punggung Putih,"3,0",ml/l
+SIDABAS 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Belalang,"4,0",ml/l
+SIDABAS 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Walang Sangit,"4,0",ml/l
+SIDABAS 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"8,0",ml/l
+INDOBAS 500 EC,BPMC: 500g/l,kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+TAMABAS 500 EC,BPMC: 500g/l,racun kontak berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Belalang,"2,0",ml/l
+TAMABAS 500 EC,BPMC: 500g/l,racun kontak berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,5",l/ha
+HOPPER 500 EC,BPMC: 500g/l,racun kontak berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+HOPPER 500 EC,BPMC: 500g/l,racun kontak berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Walang Sangit,"1.125,0",ml/l
+GRETA 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Walang Sangit,"2,0",ml/l
+GRETA 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+KARBASIN 500 EC,BPMC : 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+SANCARB 500 EC,BPMC: 500g/l,Insektisida racun kontak berbentuk pekatan yang dapat di emulsikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+Dharmabas 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Walang Sangit,"2,0",ml/l
+Dharmabas 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Wereng Hijau,"1,5",ml/l
+Dharmabas 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+ERKABAS 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"2,25",ml/l
+RAHWANA 500 EC,BPMC: 500g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+Plenum 50 WG,Pimetrozin: 50%,penghambat aktivitas makan berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Wereng Daun,"300,0",g/ha
+Plenum 50 WG,Pimetrozin: 50%,penghambat aktivitas makan berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Wereng Punggung Putih,"300,0",g/ha
+Plenum 50 WG,Pimetrozin: 50%,penghambat aktivitas makan berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Kepinding Tanah,"300,0",g/ha
+Plenum 50 WG,Pimetrozin: 50%,penghambat aktivitas makan berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"300,0",g/ha
+Plenum 50 WG,Pimetrozin: 50%,penghambat aktivitas makan berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Walang Sangit,"275,0",g/ha
+METROZINE 50 WG,Pimetrozin: 50%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Wereng Cokelat,"0,75",g/l
+INTERTEN 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+INTERTEN 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+CYTROZIN 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+CYTROZIN 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+MILENIUM 60 WG,Pimetrozin : 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BYPASS 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BYPASS 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+UNKA 20/50 WG,Pimetrozin: 50% + Dinotefuran : 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+UNKA 20/50 WG,Pimetrozin: 50% + Dinotefuran : 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+Z-OFF 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+Z-OFF 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+Alude 20/40 WG,Pimetrozin: 40% + Dinotefuran: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+Alude 20/40 WG,Pimetrozin: 40% + Dinotefuran: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+ZIOFY 50 WG,Pimetrozin: 50%,Insektisida sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+WERENGIN 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+WERENGIN 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+PILARTA 110/110 SC,Klotianidin: 110g/l + Pimetrozin: 110g/l,sistemik berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+PILARTA 110/110 SC,Klotianidin: 110g/l + Pimetrozin: 110g/l,sistemik berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+BM BENAPE 50 WG,Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+HANTER 20/60 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+HANTER 20/60 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+VOLCANO 50 WG,Pimetrozin: 50%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+TUTU 20/50 WG,Dinotefuran: 20% + Pimetrozin: 50%,Insektisida sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+TUTU 20/50 WG,Dinotefuran: 20% + Pimetrozin: 50%,Insektisida sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+ALDES 50/10 WG,Pimetrozin: 50% + Fipronil: 10%,butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+ALDES 50/10 WG,Pimetrozin: 50% + Fipronil: 10%,butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+Defuser 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+Defuser 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+SNATCH 50/10 WG,Pimetrozin: 50% + Nitenpiram: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+SNATCH 50/10 WG,Pimetrozin: 50% + Nitenpiram: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+PYTROSAN 50/20 WG,Pimetrozin: 50% + Tiametoksam: 20%,insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+PYTROSAN 50/20 WG,Pimetrozin: 50% + Tiametoksam: 20%,insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+K-KINGFIELD 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+K-KINGFIELD 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ANIXAM 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,4",g/l
+ANIXAM 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,4",g/l
+XENON 20/60 WG,Nitempiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"0,75",g/l
+XENON 20/60 WG,Nitempiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",g/l
+NITEZIM 50/10 WG,Pimetrozin: 50% + Nitenpiram: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+NITEZIM 50/10 WG,Pimetrozin: 50% + Nitenpiram: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+WORTHIDE XTRA 30/30 WG,Dinotefuran: 30% + Pimetrozin: 30%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+WORTHIDE XTRA 30/30 WG,Dinotefuran: 30% + Pimetrozin: 30%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+WORTHIDE XTRA 30/30 WG,Dinotefuran: 30% + Pimetrozin: 30%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+WORTHIDE XTRA 30/30 WG,Dinotefuran: 30% + Pimetrozin: 30%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+BESTKING 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BESTKING 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+PLENNO 50 WG,Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+DEFENDER 10/50 WG,Nitenpiram: 10% + Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+DEFENDER 10/50 WG,Nitenpiram: 10% + Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+PILARCHESS 60 WG,Pimetrozin : 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,84",g/l
+TRAVERSA 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+TRAVERSA 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+BAZAK 29/12 WG,Pimetrozin: 29% + Dinotefuran: 12%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BAZAK 29/12 WG,Pimetrozin: 29% + Dinotefuran: 12%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+PEMBURU 20/40 WG,Dinotefuran: 20% + Pimetrozin: 40%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+PEMBURU 20/40 WG,Dinotefuran: 20% + Pimetrozin: 40%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+ROZEL 40/20 WG,Pimetrozin: 40% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+ROZEL 40/20 WG,Pimetrozin: 40% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+VICOGER 40/20 WP,Pimetrozin: 40% + Dinotefuran: 20%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+VICOGER 40/20 WP,Pimetrozin: 40% + Dinotefuran: 20%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+RHANUM 50 WG,Pimetrozin: 50%,Insektisida penghambat aktivitas makan berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,6",g/l
+PYTROSAN 50/20 WG,Pimetrozin: 50% + Tiametoksam: 20%,Insektisida racuk kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+PYTROSAN 50/20 WG,Pimetrozin: 50% + Tiametoksam: 20%,Insektisida racuk kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+PYTROSAN 50/20 WG,Pimetrozin: 50% + Tiametoksam: 20%,Insektisida racuk kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+SUICA 50/20 WG,Tiametoksam: 20% + Pimetrozin: 50%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+SUICA 50/20 WG,Tiametoksam: 20% + Pimetrozin: 50%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+CHEVRO 50 WG,Pimetrozin: 50%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Walang Sangit,"0,5",g/l
+TENQUAN 20/40 WG,Pimetrozin: 40% + Dinotefuran: 20 %,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+TENQUAN 20/40 WG,Pimetrozin: 40% + Dinotefuran: 20 %,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+SIMCA 50 WG,Pimetrozin: 50%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+Salpymiten 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+Salpymiten 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+DIAMONA 40/20 WG,Dinotefuran: 20% + Pimetrozin: 40%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+DIAMONA 40/20 WG,Dinotefuran: 20% + Pimetrozin: 40%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+DURUS 20/50 WG,Dinotefuran: 20% + Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+DURUS 20/50 WG,Dinotefuran: 20% + Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+CHEVRO 50 WG,Pimetrozin: 50%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Walang Sangit,"0,5",g/l
+BESTZINE 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Wereng Daun,"2,0",g/l
+BESTZINE 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Wereng Punggung Putih,"2,0",g/l
+BESTZINE 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+zintan 50 WG,Pimetrozin: 50%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+NENGGALA 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",g/l
+NENGGALA 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",g/l
+UNINAP 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+UNINAP 20/60 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+RICEWARD 50/20 WG,Pimetrozin: 50% + Dinotefuran: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+RICEWARD 50/20 WG,Pimetrozin: 50% + Dinotefuran: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+RHANUM 50 WG,Pimetrozin: 50%,Tidak ada data.,Insektisida,Padi,wereng batang coklat,"0,6",g/l
+MISIL 50 WG,Pimetrozin: 50%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+LASER 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"2,0",g/l
+LASER 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+PRONITE 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+PRONITE 60/20 WG,Nitenpiram: 20% + Pimetrozin: 60%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ZIOFY 50 WG,Pimetrozin: 50%,Tidak ada data.,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ANDRE 55 WG,Pimetrozin: 55%,sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+STARDIOR 40/20 WG,Dinotefuran: 20% + Pimetrozin: 40%,Tidak ada data.,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+STARDIOR 40/20 WG,Dinotefuran: 20% + Pimetrozin: 40%,Tidak ada data.,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+STARDIOR 40/20 WG,Dinotefuran: 20% + Pimetrozin: 40%,Insektisida racuk kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+STARDIOR 40/20 WG,Dinotefuran: 20% + Pimetrozin: 40%,Insektisida racuk kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+AKESS 50 WG,Pimetrozin: 50%,butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+BESTROXAM 30/10 WG,Pimetrozin: 30% + Tiametoksam: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BESTROXAM 30/10 WG,Pimetrozin: 30% + Tiametoksam: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+SAGRI-PANCA 30/10 WP,Nitenpiram: 10% + Pimetrozin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+SAGRI-PANCA 30/10 WP,Nitenpiram: 10% + Pimetrozin: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+NENGGALA 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,85",g/l
+NENGGALA 60/20 WG,Pimetrozin: 60% + Nitenpiram: 20%,Insektisida sistemik racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,85",g/l
+PIMEX 50 WG,Pimetrozin: 50 %,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",g/l
+ALAMO 350 SC,Imidakloprid: 350g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Wereng Hijau,"112,5",ml/ha
+ALAMO 350 SC,Imidakloprid: 350g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"112,5",ml/ha
+NUPRID 600 FS,Imidakloprid: 600g/l,racun kontak dan lambung berbentuk pekatan,Insektisida,Padi,Penggerek Batang,"3,0",ml/kg benih
+NUPRID 600 FS,Imidakloprid: 600g/l,racun kontak dan lambung berbentuk pekatan,Insektisida,Padi,wereng batang coklat,"3,0",ml/kg benih
+IMIDAPLUS 25 WP,Imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+KLOPINDO 10 WP,Imidakloprid: 10%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,4",g/l
+CONDIOR 25 WP,Imidakloprid: 25% + Imidakloprid: 35%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+CONDIOR 25 WP,Imidakloprid: 25% + Imidakloprid: 35%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+DEKAPIRIM 400 SC,Klorfenapir: 200g/l + Imidakloprid: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+DEKAPIRIM 400 SC,Klorfenapir: 200g/l + Imidakloprid: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+SAMBER 50 SL,Imidakloprid: 50g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Wereng Hijau,"150,0",ml/ha
+SAMBER 50 SL,Imidakloprid: 50g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"450,0",ml/ha
+TRIPON 30/5 WP,Fipronil: 5% + Imidakloprid: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+TRIPON 30/5 WP,Fipronil: 5% + Imidakloprid: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+ROTAPRID 350 SC,Imidakloprid: 350g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+MATRIX WIN 200/100 EC,Karbosulfan: 200g/l + Imidakloprid: 100g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+MATRIX WIN 200/100 EC,Karbosulfan: 200g/l + Imidakloprid: 100g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Penggerek Batang,"0,5",ml/l
+LORENTZ 61 EC,Abamektin: 36g/l + Imidakloprid: 25g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+LORENTZ 61 EC,Abamektin: 36g/l + Imidakloprid: 25g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PANINDO 10 WP,Imidakloprid: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,4",g/l
+WINGREAT 400 EC,Imidakloprid: 100g/l + BPMC: 300g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+WINGREAT 400 EC,Imidakloprid: 100g/l + BPMC: 300g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+Neptune 25 WP,imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",kg/ha
+OBR 25 WP,Imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+KIMIDA 10 WP,Imidakloprid: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,75",g/l
+Qiudor 25 WP,Imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",kg/ha
+IMIDAPRO 30 WP,Imidakloprid: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+CATALAN 33 WP,Imidakloprid: 33%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+SAMIDA 15 WP,Imidakloprid: 15%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",kg/ha
+PLUSH 2/58 WP,Monosultap: 58% + Imidakloprid: 2%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Penggerek Batang,"1,0",kg/ha
+PLUSH 2/58 WP,Monosultap: 58% + Imidakloprid: 2%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,25",kg/ha
+PLUSH 2/58 WP,Monosultap: 58% + Imidakloprid: 2%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Penggerek Batang,"1,25",kg/ha
+FREECOR 50 SC,Klorantraniliprol: 50g/l,yang bersifat protektif berbentuk pekatan suspensi,Insektisida,Padi,Penggulung Daun,"3,0",ml/l
+FREECOR 50 SC,Klorantraniliprol: 50g/l,yang bersifat protektif berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+"FERTERRA 0,4 GR","Klorantraniliprol: 0,4%",sistemik racun syaraf berbentuk butiran,Insektisida,Padi,Penggerek Batang,"7,5",kg/ha
+VERTHON 50 SC,klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+PROGRESSIVE 50 SC,klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+VANTACOR 600 SC,Klorantraniliprol: 600g/l,pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"0,4",ml/l
+ASHURA 100/200 SC,Tiametoksam: 200g/l + Klorantraniliprol : 100g/l,racun kontak dan sistemik berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"0,4",ml/l
+Cleverole 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"2,0",ml/l
+Cleverole 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+CERBERUS 200 SC,Klorantraniliprol: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+PREVATHON PRO 200 SC,Klorantraniliprol: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,8",ml/l
+PREVATHON 50 SC,Klorantraniliprol: 50g/l,Insektisida sistemik racun kontak lambung dan syaraf berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"2,0",ml/l
+PREVATHON 50 SC,Klorantraniliprol: 50g/l,Insektisida sistemik racun kontak lambung dan syaraf berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+PREVATHON 50 SC,Klorantraniliprol: 50g/l,Insektisida sistemik racun kontak lambung dan syaraf berbentuk pekatan suspensi,Insektisida,Padi,Hama Ganjur,"0,5",ml/l
+PREVATHON 50 SC,Klorantraniliprol: 50g/l,Insektisida sistemik racun kontak lambung dan syaraf berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,5",ml/l
+PREVATHON 50 SC,Klorantraniliprol: 50g/l,Insektisida sistemik racun kontak lambung dan syaraf berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih,"0,5",ml/l
+AVIMAX 20/100 EC,Imidakloprid: 100g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,25",ml/l
+WINDER 25 WP,Imidakloprid: 25%,sistemik racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Penggerek Batang,"100,0",g/ha
+IMIDOR 50 SL,Imidakloprid: 50g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+GLITTER 70 WG,Imidakloprid: 70%,Butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,6",g/l
+UNIBEST 200 SL,Imidakloprid: 200g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+WINYARD 70 WP,Imidakloprid: 70%,"racun kontak, lambung dan sistemik berbentuk tepung yang dapat disuspensikan",Insektisida,Padi,wereng batang coklat,"1,5",g/l
+WINYARD 70 WP,Imidakloprid: 70%,"racun kontak, lambung dan sistemik berbentuk tepung yang dapat disuspensikan",Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+WINYARD 70 WP,Imidakloprid: 70%,"racun kontak, lambung dan sistemik berbentuk tepung yang dapat disuspensikan",Insektisida,Padi,Wereng Punggung Putih,"0,5",ml/l
+CONFIDOR EXTRA 350 SC,Imidakloprid: 350g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+CONFIDOR EXTRA 350 SC,Imidakloprid: 350g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Wereng Punggung Putih,"0,5",ml/l
+TIDAL 5 WP,Imidakloprid: 5% + Imidakloprid: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,8",g/l
+TIDAL 5 WP,Imidakloprid: 5% + Imidakloprid: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,8",g/l
+CENTADOR 10 WP,Imidakloprid: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,4",g/l
+DELOUSE 200 SL,Imidakloprid: 200g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+RUDOR 5 WP,Imidakloprid: 5%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+BESVIDOR 25 WP,Imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Walang Sangit,"1,5",g/l
+BESVIDOR 25 WP,Imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,Penggerek Batang,"1,75",g/l
+BESVIDOR 25 WP,Imidakloprid: 25%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,75",g/l
+PUNTOXTRA 70 WG,Imidakloprid: 70%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,12",g/l
+DAGGER 200 SL,Imidakloprid: 200g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"187,5",ml/ha
+PROMIDA 55 WP,Imidakloprid: 10% + Dimehipo: 45%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+ZYCHATE 25 WP,Imidakloprid: 25%,"racun kontak, lambung dan sistemik berbentuk tepung yang dapat disuspensikan",Insektisida,Padi,wereng batang coklat,"1,75",g/l
+GAUCHO 350 FS,Imidakloprid: 350g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Wereng Hijau,"4,0",ml/kg benih
+IMAR 20 WP,Imidakloprid : 20%,sistemik racun kontak berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"0,75",g/l
+ABUKI 50 SL,Imidakloprid: 50g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Wereng Hijau,"1,0",ml/l
+ABUKI 50 SL,Imidakloprid: 50g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+BENABEL PLUS 120/35 SC,Klorantraniliprol: 120g/l + Emamektin benzoat: 35%,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"0,8",ml/l
+SHENZI 35 WG,Klorantraniliprol: 35%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"100,0",g/ha
+ENFUSE 200 SC,Klorantraniliprol: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+MONOTHON 600 SC,Klorantraniliprol: 600g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,5",ml/l
+CONSTEL 105/420 SC,Metoksifenosida: 420g/l + Klorantraniliprol: 105g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,8",ml/l
+CONSTEL 105/420 SC,Metoksifenosida: 420g/l + Klorantraniliprol: 105g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"0,8",ml/l
+CHLORADINO PLUS 10/40 WG,Dinotefuran: 40% + Klorantraniliprol: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,8",g/l
+CHLORADINO PLUS 10/40 WG,Dinotefuran: 40% + Klorantraniliprol: 10%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"0,8",g/l
+CHLOTAP 200/20 SC,Monosultap: 200g/l + Klorantraniliprol: 20g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+ELICOR 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+ELICOR 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggulung Daun,"2,0",ml/l
+Rockrole 100/200 SC,Klorantraniliprol: 100g/l + Tiametoksam: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Wereng Cokelat,"0,4",ml/l
+Rockrole 100/200 SC,Klorantraniliprol: 100g/l + Tiametoksam: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,4",ml/l
+Rockrole 100/200 SC,Klorantraniliprol: 100g/l + Tiametoksam: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"0,4",ml/l
+PALTON 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"2,0",ml/l
+PALTON 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+NILIPRO 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+CONQUER 100/200 SC,Tiametoksam: 200g/l + Klorantraniliprol: 100g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,4",ml/l
+CONQUER 100/200 SC,Tiametoksam: 200g/l + Klorantraniliprol: 100g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"0,4",ml/l
+SHENZI SMART 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+SHENZI SMART 50 SC,Klorantraniliprol: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"2,0",ml/l
+Zytor 30/60 SE,klorantraniliprol: 60g/l + Isoflualanam: 30g/l,racun kontak dan lambung berbentuk emulsi yang dapat disuspensikan,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+SHENZI 400 SC,Klorantraniliprol: 400g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"1,5",ml/l
+LUMIVIA B 625 FS,Klorantraniliprol: 625g/l,racun kontak dan lambung berbentuk pekatan untuk perlakuan benih,Insektisida,Padi,Penggerek Batang,"6,0",ml/kg benih
+KRATON 200 SC,Klorantraniliprol : 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Pelipat Daun,"1,0",ml/l
+KRATON 200 SC,Klorantraniliprol : 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+JACAMAR 200 SC,klorantraniliprol: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+TRI-PROLEMA 40/120 SC,klorantraniliprol: 120g/l + Emamektin benzoat: 40g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"1,0",ml/l
+CHLORANLIER 200 SC,klorantraniliprol: 200g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PEVENTA 5 DT,Klorantraniliprol: 5%,racun kontak dan lambung berbentuk tablet,Insektisida,Padi,Penggerek Batang,"800,0",g/ha (1000 tablet/ha)
+PEVENTA 5 DT,Klorantraniliprol: 5%,racun kontak dan lambung berbentuk tablet,Insektisida,Padi,Pelipat Daun,"800,0",g/ha (1000 tablet/ha)
+NEOFRON 60 SC,Fipronil: 60g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+NEOFRON 60 SC,Fipronil: 60g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Walang Sangit,"1,1",ml/l
+NEOFRON 60 SC,Fipronil: 60g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek batang,"0,8",ml/l
+REGENT 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Walang Sangit,"1,0",ml/l
+REGENT 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Orong-Orong,"12,5",ml/kg benih
+RG 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+RG 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+FIPROZOLE 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+BALISTIC 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Walang Sangit,"1,5",ml/l
+BALISTIC 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+BALISTIC 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+BALISTIC 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Pelipat Daun,"2,0",ml/l
+TRIPON 30/5 WP,Fipronil: 5% + Imidakloprid: 30%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+MORGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,000",ml/l
+MORGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+FIPRON 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+FIPRON 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+BM MASCONIL 50 SC,Fipronil: 50g/l,Insektisida sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+BM MASCONIL 50 SC,Fipronil: 50g/l,Insektisida sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+REGGI 60 EC,Fipronil: 60g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+STARAS 100/35/20 EC,Abamektin: 100g/l + Fipronil: 35g/l +Heksaflumuron: 20g/l,Insektisida sistemik racun kontak dan lambung berbentuk pekatan yang dapat di emulsikan,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+NARAGENT 50 SC,Fipronil: 50g/l,Insektisida racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+NARAGENT 50 SC,Fipronil: 50g/l,Insektisida racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+LESENTA 80 WG,Fipronil: 40% + Imidacloprid: 40%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Hama Putih Palsu,"200,0",g/ha
+LESENTA 80 WG,Fipronil: 40% + Imidacloprid: 40%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"200,0",g/ha
+LESENTA 80 WG,Fipronil: 40% + Imidacloprid: 40%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"200,0",g/ha
+LESENTA 80 WG,Fipronil: 40% + Imidacloprid: 40%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Wereng Hijau,"250,0",g/ha
+LESENTA 80 WG,Fipronil: 40% + Imidacloprid: 40%,Insektisida racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Walang Sangit,"200,0",g/ha
+ALDES 50/10 WG,Pimetrozin: 50% + Fipronil: 10%,butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+R-JEN 100 SC,Fipronil: 100g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+R-JEN 100 SC,Fipronil: 100g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+SAGRI-CLEAN 150/350 SC,Fipronil: 150g/l + Metoksifenosida: 350g/l,Insektisida racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,5",ml/l
+TOPNIL 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+TOPNIL 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PENALTY 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Walang Sangit,"2,0",ml/l
+PENALTY 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"2,0",ml/l
+PENALTY 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+GARNET 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+SIGENT 60 WG,Fipronil: 60%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+"Aneto 0,5 GR","Fipronil: 0,5%",sistemik racun kontak dan lambung berbentuk butiran,Insektisida,Padi,Penggerek Batang,"1,0",kg/ha
+SHOMEI 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+Tecam 80 WG,Fipronil: 80%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,Penggerek Batang,"150,0",g/ha
+Tecam 80 WG,Fipronil: 80%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"50,0",g/ha
+AGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+AGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+AGADI 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+AGADI 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Pelipat Daun,"2,0",ml/l
+AGADI 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Walang Sangit,"2,0",ml/l
+"NEOFRON 0,5 GR","Fipronil: 0,5%",racun kontak dan lambung berbentuk butiran,Insektisida,Padi,Penggerek Batang,"10,0",kg/ha
+"NEOFRON 0,5 GR","Fipronil: 0,5%",racun kontak dan lambung berbentuk butiran,Insektisida,Padi,wereng batang coklat,"10,0",kg/ha
+GARNET 80 WG,Fipronil: 80%,sistemik racun kontak dan lambung butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"0,1",g/l
+V-PRO 50 EC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,8",ml/l
+DESTAR 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"1,0",ml/l
+DESTAR 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+DESTAR 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+FIPROS 55 SC,Fipronil: 55g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,9",ml/l
+FIPROS 55 SC,Fipronil: 55g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"0,9",ml/l
+ASPRIL 100 SC,Fipronil: 100g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+ASPRIL 100 SC,Fipronil: 100g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+MAZOTAM 50 SC,Fipronil : 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+MAZOTAM 50 SC,Fipronil : 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+MAZOTAM 50 SC,Fipronil : 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Putih Palsu,"1,5",ml/l
+andafur 0.5/3 GR,Fipronil: 0.5% + Karbofuran: 3%,sistemik racun kontak dan lambung berbentuk butiran,Insektisida,Padi,wereng batang coklat,"7,5",kg/ha
+KEN-PRONIL 50 SC,Fipronil : 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Hama Orong-Orong,"7,5",ml/kg benih
+RADIGEN 50 SC,Fipronil : 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+AFONIL 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,5",ml/l
+AFONIL 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Pelipat Daun,"0,5",ml/l
+"AMFIPRON 0,3 GR","Fipronil: 0,3%",racun kontak dan lambung berbentuk butiran,Insektisida,Padi,wereng batang coklat,"25,0",kg/ha
+"AMFIPRON 0,3 GR","Fipronil: 0,3%",racun kontak dan lambung berbentuk butiran,Insektisida,Padi,Penggerek Batang,"25,0",kg/ha
+BURNEGG 100/25 SC,Nitenpiram: 100g/l + Fipronil: 25g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+APOTAP 40/3 WP,Kartap: 40% + Fipronil: 3%,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",g/l
+Fipronil 87 TK,Fipronil: 87%,Insektisida,Insektisida,Padi,Penggerek Batang,"1,0",g/l
+D-REJEN 50 SC,Fipronil : 50 g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+D-REJEN 50 SC,Fipronil : 50 g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+JIBRO 50 SC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+BIOGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"0,2",l/ha
+BIOGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Walang Sangit,"0,5",l/ha
+BIOGENT 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"0,3",l/ha
+PRIMA-PRO 55 SC,Fipronil: 55g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+FORZA 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+FORZA 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+FORAY 50 SC,Fipronil: 50g/l,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+SINTROP 80 WG,Fipronil: 80%,racun kontak dan lambung berbentuk butiran yang dapat didispersikan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",kg/ha
+ZOHAR 240/40 SC,Fipronil : 40g/l + Buprofezin : 240g/l,racun kontak dan lambung berbentuk pekatan yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+ASPRIL 50 SC,Fipronil: 50g/l,Insektisida racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+Aneto 50 EC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"0,8",l/ha
+Aneto 50 EC,Fipronil: 50g/l,sistemik racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Penggerek Batang,"1,0",l/ha
+SANDIMAS 400 SL,Dimehipo: 400g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+SANDIMAS 400 SL,Dimehipo: 400g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+CONTROL 400 SL,Dimehipo: 400g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+CONTROL 400 SL,Dimehipo: 400g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,Ulat Pelipat Daun,"2,0",ml/l
+CONTROL 400 SL,Dimehipo: 400g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+STUNTMAN 500 SL,Dimehipo: 500g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+STUNTMAN 500 SL,Dimehipo: 500g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PRIMA-HIPO 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1.125,0",ml/l
+PRIMA-HIPO 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1.125,0",ml/l
+MONTAF 400 SL,Dimehipo: 400g/l,"racun kontak, lambung dan sistemik berbentuk larutan dalam air",Insektisida,Padi,Belalang,"3,0",ml/l
+MONTAF 400 SL,Dimehipo: 400g/l,"racun kontak, lambung dan sistemik berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+MONTAF 400 SL,Dimehipo: 400g/l,"racun kontak, lambung dan sistemik berbentuk larutan dalam air",Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+JAGONA 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+DIPHO 290 SL,Dimehipo: 290g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+DIPHO 290 SL,Dimehipo: 290g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+INDOHIPO 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,25",ml/l
+INDOHIPO 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,25",ml/l
+KLOPER 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,5",ml/l
+KLOPER 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+NETOXIN 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+NETOXIN 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+SONIC 450 SL,Dimehipo: 450g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+FOLTUS PLUS 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+FOLTUS PLUS 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+FOLTUS 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+FOLTUS 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+PROTRUDE 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+DIPHO 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,25",ml/l
+DIPHO 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,25",ml/l
+SUPORTAN 500 SL,Dimehipo: 500g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+HINOW 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Pengggerek Padi Bergaris,"1,5",ml/l
+HINOW 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+DIMPO 400 SL,Dimehipo: 400g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"3,0",ml/l
+AVOS 525 SL,Dimehipo: 525g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+INDODINE 6 GR,Dimehipo: 6%,racun kontak dan lambung berbentuk butiran,Insektisida,Padi,Penggerek Batang,"12,0",kg/ha
+INDODINE 6 GR,Dimehipo: 6%,racun kontak dan lambung berbentuk butiran,Insektisida,Padi,wereng batang coklat,"12,0",kg/ha
+DEMIOS 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+Barrier Gold 6 GR,Dimehipo: 4% + Metaldehida: 2%,racun kontak dan lambung berbentuk butiran,Insektisida,Padi,Keong Mas,"10,0",kg/ha
+Barrier Gold 6 GR,Dimehipo: 4% + Metaldehida: 2%,racun kontak dan lambung berbentuk butiran,Insektisida,Padi,wereng batang coklat,"10,0",kg/ha
+PRIMADINE 450 SL,Dimehipo: 450g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,25",ml/l
+PRIMADINE 450 SL,Dimehipo: 450g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,25",ml/l
+HOKITAN 500 SL,Dimehipo: 500g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"2,5",ml/l
+HOKITAN 500 SL,Dimehipo: 500g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+BASUNDEP 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+SPARTAN 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"0,75",ml/l
+SPARTAN 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"0,75",ml/l
+FIDIPO 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+VISTA 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+VISTA 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+VISTA 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Hama Putih Palsu,"3,0",ml/l
+CENTADINE 450 SL,Dimehipo : 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"3,0",ml/l
+CENTADINE 450 SL,Dimehipo : 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"3,0",ml/l
+SIDATAN 410 SL,Dimehipo: 410g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+SIDATAN 410 SL,Dimehipo: 410g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+SIDATAN 410 SL,Dimehipo: 410g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Wereng Punggung Putih,"1,0",ml/l
+SIDATAN 410 SL,Dimehipo: 410g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Belalang,"0,75",ml/l
+SIDATAN 410 SL,Dimehipo: 410g/l,Insektisida racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Walang Sangit,"0,75",ml/l
+DIMECO 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Hama Putih Palsu,"2,0",ml/l
+TAKEOVER 505 SL,Dimehipo: 505g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+GESTAPO 450 SL,Dimehipo: 450g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+DETOP 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"3,0",ml/l
+DETOP 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+MANUVER 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam,Insektisida,Padi,wereng batang coklat,"3,0",ml/l
+MANUVER 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam,Insektisida,Padi,Penggerek Batang,"1,5",ml/ha
+MANUVER 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam,Insektisida,Padi,Penggerek Batang,"2,0",ml/l
+MAXDINE 480 SL,Dimehipo: 480 g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+MAXDINE 480 SL,Dimehipo: 480 g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+KEN-MIPO 400 SL,Dimehipo: 400g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+HIPPO 400 SL,Dimehipo: 400g/l,sistemik racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+Gallery 403 SL,Dimehipo: 403g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+Gallery 403 SL,Dimehipo: 403g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+PROMIDA 55 WP,Imidakloprid: 10% + Dimehipo: 45%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"1,5",g/l
+ROLTAP 450 SL,Dimehipo: 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,25",l/ha
+DEFRON 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+DEFRON 500 SL,Dimehipo: 500g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,0",ml/l
+BESHIPO 500 SL,Dimehipo: 500g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+BESHIPO 500 SL,Dimehipo: 500g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"1,5",ml/l
+LANDEP 450 SL,Dimehipo: 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"2,25",ml/l
+LANDEP 450 SL,Dimehipo: 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"2,25",ml/l
+PARASOL 500 SL,Dimehipo: 500g/l,"sistemik, racun kontak dan lambung berbentuk larutan dalam air",Insektisida,Padi,wereng batang coklat,"1,0",ml/l
+AJAR 450 SL,Dimehipo: 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+AJAR 450 SL,Dimehipo: 450g/l,racun kontak dan lambung berbentuk larutan dalam air,Insektisida,Padi,wereng batang coklat,"1,0",g/l
+APOTAP 40/3 WP,Kartap: 40% + Fipronil: 3%,racun kontak dan lambung berbentuk pekatan suspensi,Insektisida,Padi,Penggerek Batang,"1,0",g/l
+DETONATOR 20 WP,Buprofezin: 10% + Etofenproks: 10%,racun kontak dan lambung berbentuk tepung yang dapat disuspensikan,Insektisida,Padi,wereng batang coklat,"2,0",g/l
+TREBON 95 EC,Etofenproks: 95g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Ulat Grayak,"1,0",ml/l
+TREBON 95 EC,Etofenproks: 95g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Penggulung Daun Padi,"1,0",ml/l
+TREBON 95 EC,Etofenproks: 95g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,Wereng Hijau,"2,0",ml/l
+TREBON 95 EC,Etofenproks: 95g/l,racun kontak dan lambung berbentuk pekatan yang dapat diemulsikan,Insektisida,Padi,wereng batang coklat,"2,0",ml/l
+KOZIMA 50 SC,Fipronil: 50g/l,Insektisida sistemik selektif berbentuk berbentuk suspensi,Insektisida,Padi,Penggerek Batang,"1,5",ml/l
+KOZIMA 50 SC,Fipronil: 50g/l,Insektisida sistemik selektif berbentuk berbentuk suspensi,Insektisida,Padi,wereng batang coklat,1.5,ml/l
